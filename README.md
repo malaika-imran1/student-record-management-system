@@ -1,13 +1,13 @@
 # student record management system:
 # scope:
-The system allows the user to:
-Insert new student records
-Search for a student
-Delete a student
-Display all students
-Store and load data from a file
-Use a menu-driven interface for easy navigation
-The project is simple, beginner-friendly, and satisfies academic requirements.
+1.The system allows the user to:
+2.Insert new student records
+3.Search for a student
+4.Delete a student
+5.Display all students
+6.Store and load data from a file
+7.Use a menu-driven interface for easy navigation
+8.The project is simple, beginner-friendly, and satisfies academic requirements.
 # Screenshots Of Output:
 # Insert new student:
 
