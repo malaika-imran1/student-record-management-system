@@ -1,4 +1,4 @@
-<img width="245" height="201" alt="image" src="https://github.com/user-attachments/assets/b2b675c5-0da9-4bcf-8dde-90aa6a01218a" /># student-record-management-system
+# student record management system:
 # scope:
 The system allows the user to:
 Insert new student records
